@@ -9,3 +9,4 @@
 REPORT zmiegt_temp2.
 
 WRITE 1.
+WRITE 2.
